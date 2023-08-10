@@ -6,8 +6,8 @@ It's an app built with Kotlin that shows how to perform CRUD operations in the R
 Below you can find the docs for each tehnology that is used in this app:
 
 # Android Architecture Components:
-ViewModel
-Navigation
+ 1. ViewModel
+ 2. Navigation
 
 # Dependency Injection:
 Hilt for Android
@@ -17,5 +17,5 @@ Hilt for Android
  2. Asynchronous Flow
 
 # Other Android Components:
-Jetpack Compose
-Room
+ 1. Jetpack Compose
+ 2. Room
