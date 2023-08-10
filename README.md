@@ -13,8 +13,8 @@ Navigation
 Hilt for Android
 
 # Asynchronous Programming:
-otlin Coroutines
-Asynchronous Flow
+ 1. kotlin Coroutines
+ 2. Asynchronous Flow
 
 # Other Android Components:
 Jetpack Compose
